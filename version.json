@@ -1,1 +1,5 @@
-
+{
+  "version": "v1.0.0",
+  "download_url": "https://github.com/Kobby117/taabea-herbal-updates/releases/download/v1.0.0/patch.zip",
+  "notes": "Initial release for Taabea Herbal Pharmacy rebranding and single-location setup."
+}
